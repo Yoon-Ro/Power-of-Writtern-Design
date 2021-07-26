@@ -15,4 +15,4 @@
 
 
 
-[더블 다이아몬드 모델(Double Diamond Model)]
+* 이아몬드 모델(Double Diamond Model)]
